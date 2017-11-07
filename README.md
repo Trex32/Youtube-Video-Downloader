@@ -1,6 +1,6 @@
 # Youtube Video Downloader
 
-This project aimed to download youtube videos or playlists in linux operating system, internally it uses [pafy](pythonhosted.org/Pafy/)
+This project aimed to download youtube videos or playlists in linux operating system
 
 ### Installing Required tools
 

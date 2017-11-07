@@ -4,7 +4,7 @@ This project aimed to download youtube videos or playlists in linux operating sy
 
 ### Installing Required tools
 
-``` chmod +x setup.py && sudo ./setup.py ```
+``` chmod +x setup.sh && sudo ./setup.sh ```
 
 ### Running the Program
 
